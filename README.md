@@ -4,4 +4,5 @@ This repository contains the code, datasets and project report for an undergradu
 classification of lung cancers from gene expression datasets. 
 
 Project undertaken at BITS Pilani (Goa)
-Project Supervisor: [Dr. Sukanta Mondal] (https://universe.bits-pilani.ac.in/goa/suku/profile)
+
+Project Supervisor: [Dr. Sukanta Mondal](https://universe.bits-pilani.ac.in/goa/suku/profile)
